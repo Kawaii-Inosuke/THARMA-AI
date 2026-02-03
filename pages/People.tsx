@@ -10,7 +10,7 @@ export const People: React.FC = () => {
       name: 'Dr. Divya Mohan',
       role: 'PI',
       institution: 'SRM Institute of Science & Technology',
-      bio: 'Assistant Professor of Computer Science specializing in Algorithmic Fairness and AI Ethics. Leading the technical audit component of the study.',
+      bio: 'Assistant Professor of Computer Science and Principal Investigator leading research in AI Ethics and Algorithmic Fairness. Drives strategic project management to ensure technical innovation and excellence.',
       imageUrl: '/assets/PI and CO Pi/dr divya mohan.jpg'
     },
   ];
