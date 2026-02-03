@@ -45,16 +45,16 @@ Newsletter subscription
 
 
 ## 🚀 Getting Started
-bash# Clone repository
+**Clone repository**
 git clone https://github.com/yourusername/tharma-ai-website.git
 
-# Install dependencies
+**Install dependencies**
 npm install
 
-# Run development server
+**Run development server**
 npm run dev
 
-# Open http://localhost:3000
+**Open http://localhost:3000**
 
 ## 📁 Tech Stack
 
