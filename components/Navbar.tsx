@@ -23,12 +23,12 @@ export const Navbar: React.FC = () => {
           <NavLink to="/" className="flex items-center gap-4">
             {/* Logos SVG */}
             <img
-              src="/Logos.svg"
-              alt="ICSSR and Partner Logos"
-              className="h-10 w-auto"
+              src="/assets/logo/Tharma AI logo.svg"
+              alt="Tharma AI Logo"
+              className="h-12 w-auto"
             />
             <div className="hidden sm:flex items-center gap-2">
-              <span className="font-serif font-bold text-navy-900 text-lg">
+              <span className="font-serif font-bold text-navy-900 text-2xl">
                 Tharma AI
               </span>
             </div>

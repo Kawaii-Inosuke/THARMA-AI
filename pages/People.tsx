@@ -10,7 +10,7 @@ export const People: React.FC = () => {
       name: 'Dr. Divya Mohan',
       role: 'PI',
       institution: 'SRM Institute of Science & Technology',
-      bio: 'Professor of Computer Science specializing in Algorithmic Fairness and AI Ethics. Leading the technical audit component of the study.',
+      bio: 'Assistant Professor of Computer Science specializing in Algorithmic Fairness and AI Ethics. Leading the technical audit component of the study.',
       imageUrl: '/assets/PI and CO Pi/dr divya mohan.jpg'
     },
   ];
@@ -18,32 +18,25 @@ export const People: React.FC = () => {
   const researchers: TeamMember[] = [
     {
       id: '3',
-      name: 'Vikram Singh',
-      role: 'Researcher',
-      institution: 'SRM Institute',
-      imageUrl: 'https://picsum.photos/300/400?random=3'
+      name: 'Rishiraj Sen',
+      role: 'Research Assistant',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/research ass and field/Rishiraj Sen.jpg'
     },
     {
       id: '4',
-      name: 'Priya Venkatesh',
-      role: 'Researcher',
-      institution: 'SRM Institute',
-      imageUrl: 'https://picsum.photos/300/400?random=4'
+      name: 'Arkaprava Banerjee',
+      role: 'Field Investigator',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/research ass and field/Arkaprava Banerjee.jpg'
     },
     {
       id: '5',
-      name: 'Rahul Mehta',
-      role: 'Intern',
-      institution: 'Panjab University',
-      imageUrl: 'https://picsum.photos/300/400?random=5'
+      name: 'Harish Karthi K',
+      role: 'Field Investigator',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/research ass and field/HARISH KARTHI K.jpg'
     },
-    {
-      id: '6',
-      name: 'Sneha Gupta',
-      role: 'Intern',
-      institution: 'SRM Institute',
-      imageUrl: 'https://picsum.photos/300/400?random=6'
-    }
   ];
 
   const coLeadership: TeamMember[] = [
@@ -115,7 +108,7 @@ export const People: React.FC = () => {
       {/* Researchers Grid */}
       <div>
         <h3 className="text-xl font-serif font-bold text-navy-900 border-b border-gray-200 pb-4 mb-8">
-          Research Associates & Interns
+          Research Assistants and Field Investigators
         </h3>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-12">
           {researchers.map(member => (

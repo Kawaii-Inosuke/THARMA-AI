@@ -5,6 +5,14 @@ import { Link } from 'react-router-dom';
 export const Home: React.FC = () => {
   return (
     <div className="flex flex-col">
+      {/* Logo Strip */}
+      <div className="bg-white py-6 flex justify-center items-center gap-8 md:gap-16 flex-wrap px-4 border-b border-gray-100">
+        <img src="/assets/logo/ICSSR.svg" alt="ICSSR Logo" className="h-24 w-auto object-contain" />
+        <img src="/assets/logo/SRM LOGO.svg" alt="SRM Logo" className="h-20 w-auto object-contain" />
+        <img src="/assets/logo/Gurunanak.svg" alt="Guru Nanak College Logo" className="h-20 w-auto object-contain" />
+        <img src="/assets/logo/Jnu.svg" alt="JNU Logo" className="h-20 w-auto object-contain" />
+      </div>
+
       {/* Hero Section */}
       <section className="relative w-full min-h-[70vh] bg-navy-900 flex items-center overflow-hidden">
         {/* Background Image */}

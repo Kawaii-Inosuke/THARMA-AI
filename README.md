@@ -1,78 +1,107 @@
-# ICSSR Longitudinal Study - THARMA AI
+# Tharma AI - Ethics of AI in E-Governance
 
-**Trustworthy, Accountable, Responsible Machine AI**
+## 📋 About
+Tharma AI (Trustworthy, Accountable, Responsible Machine AI) is a two-year ICSSR longitudinal study examining trust, fairness, and accountability in AI-enabled e-governance systems across diverse Indian regions.
+Duration: 2 Years (2025-2027)
+Funding: Indian Council of Social Science Research (ICSSR)
+Lead Institution: SRM Institute of Science & Technology, Chennai
 
-This project is a web application for the ICSSR Longitudinal Study titled "Bridging Policy & Technology: Examining how AI ethics evolve in real-world governance across India's diverse regional contexts."
+## 🎯 Project Overview
+As India accelerates digital transformation through the Digital India initiative, AI is increasingly deployed in public services—from biometric welfare systems and healthcare triage to predictive policing and smart city surveillance. This study bridges the gap between technical innovation and social impact by examining how AI ethics evolve in real-world governance contexts.
 
-It serves as a platform to disseminate findings, policy briefs, and research related to AI ethics in e-governance, focusing on regions like Delhi and Tamil Nadu.
+**Study Regions**
+Tamil Nadu: Chennai, Coimbatore, Villupuram
+Haryana-Chandigarh: Chandigarh, Gurugram, Hisar
+Delhi: Urban governance analysis
 
-## Features
 
-- **Project Insights:** Detailed information about the study's scope, including Digital Governance, Ethical Standards, and Regional Dynamics.
-- **Interactive Map:** Visual representation of study regions.
-- **Research Publications:** Access to policy briefs and full research papers.
-- **Responsive Design:** A modern, responsive user interface built with React and Tailwind CSS.
+## 🔬 Research Focus
 
-## Technology Stack
+**Three Key Areas**
+**Trust and Citizen Perception**
+Measuring how transparency, explainability, and grievance redressal influence public trust in AI-driven services.
+**Algorithmic Fairness and Bias**
+Technical audits using SHAP, LIME, and Fairlearn to identify disparities across caste, gender, language, and urban-rural divides.
+**Institutional Accountability**
+Evaluating oversight protocols, audit mechanisms, and adaptive learning processes in government agencies.
 
-- **Framework:** [React](https://react.dev/)
-- **Build Tool:** [Vite](https://vitejs.dev/)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com/)
-- **Routing:** [React Router](https://reactrouter.com/)
-- **Icons:** [Lucide React](https://lucide.dev/)
-- **Language:** TypeScript
+## 📊 Methodology
 
-## Getting Started
+Sample Size: 2,200+ citizens tracked over 2 years
+Technical Audits: AI system evaluation using explainability tools
+Citizen Surveys: Annual perception and trust assessments
+Focus Groups: Qualitative insights from diverse communities
+Stakeholder Interviews: Government officials, developers, policymakers
 
-Follow these instructions to get a copy of the project up and running on your local machine.
 
-### Prerequisites
+## 💻 Website Features
 
-Ensure you have Node.js installed on your system.
-You can download it from [nodejs.org](https://nodejs.org/).
+Project overview and research scope
+Study region mapping (Delhi, Tamil Nadu, Haryana-Chandigarh)
+Policy briefs and research outputs
+News and events updates
+Team information and opportunities
+Newsletter subscription
 
-### Installation
 
-1.  Clone the repository (if applicable) or navigate to the project directory.
-2.  Install the dependencies:
+## 🚀 Getting Started
+bash# Clone repository
+git clone https://github.com/yourusername/tharma-ai-website.git
 
-    ```bash
-    npm install
-    ```
+# Install dependencies
+npm install
 
-### Running the Application
-
-To start the development server:
-
-```bash
+# Run development server
 npm run dev
-```
 
-The application will typically run at `http://localhost:5173`. Open this URL in your browser to view the website.
+# Open http://localhost:3000
 
-### Building for Production
+## 📁 Tech Stack
 
-To build the application for production:
+Frontend: Next.js / React
+Styling: Tailwind CSS
+Deployment: Vercel / Netlify
+Analytics: [Your choice]
 
-```bash
-npm run build
-```
 
-To preview the production build:
+## 🎨 Design
+Colors:
 
-```bash
-npm run preview
-```
+Primary: Navy Blue (#001F3F)
+Secondary: Saffron Orange (#FF9933)
+Accent: Gold (#C9A962)
 
-## Project Structure
+Typography:
 
-- `src/`
-  - `components/`: Reusable UI components (Navbar, Footer, etc.)
-  - `pages/`: Page components providing the main content (Home, Project, Research, etc.)
-  - `assets/`: Static assets like images and global styles.
-  - `App.tsx`: Main application component and routing setup.
-  - `main.tsx`: Entry point of the React application.
+Headings: Playfair Display
+Body: Inter
 
-## contact
 
-For more information about the project or research findings, please refer to the contact section on the website.
+## 📦 Expected Outcomes
+
+Ethical AI Maturity Index (EAMI) - Benchmarking framework
+Ethics Dashboards - Real-time monitoring tools
+Audit Templates - Standardized AI fairness protocols
+RAIGF Framework - Responsible AI governance guidelines
+Policy Briefs - Evidence-based recommendations
+Training Toolkits - Capacity building resources
+
+
+## 📞 Contact
+SRM Institute of Science & Technology
+Kattankulathur, Chennai, Tamil Nadu - 603203
+Email: icssr2026srmist@gmail.com
+Website: 
+
+## 🙏 Acknowledgments
+
+Indian Council of Social Science Research (ICSSR)
+SRM Institute of Science & Technology
+Tamil Nadu e-Governance Agency (TNeGA)
+Government of Tamil Nadu, Haryana, and Delhi
+
+
+## 📄 License
+MIT License - see LICENSE file for details.
+
+© 2025 Tharma AI Research Project. All Rights Reserved.
