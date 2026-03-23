@@ -46,6 +46,87 @@ export const People: React.FC = () => {
     },
   ];
 
+  const researchInterns: TeamMember[] = [
+    {
+      id: 'intern-1',
+      name: 'Aarya Sawant',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Aarya Sawant.jpg'
+    },
+    {
+      id: 'intern-2',
+      name: 'Archit Gupta',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Archit Gupta.jpg'
+    },
+    {
+      id: 'intern-3',
+      name: 'Arya Katoch',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Arya Katoch.jpg'
+    },
+    {
+      id: 'intern-4',
+      name: 'Ayush Kumar',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Ayush Kumar.jpeg'
+    },
+    {
+      id: 'intern-5',
+      name: 'Ayush Narania',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Ayush Narania.png'
+    },
+    {
+      id: 'intern-6',
+      name: 'Chelva Lakshitha',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Chelva Lakshitha.jpeg'
+    },
+    {
+      id: 'intern-7',
+      name: 'Pallaprolu Praket Kumar',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Pallaprolu Praket Kumar.jpeg'
+    },
+    {
+      id: 'intern-8',
+      name: 'Sai Priyaa',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/SAI PRIYAA.JPG'
+    },
+    {
+      id: 'intern-9',
+      name: 'Sangat Singh',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Sangat Singh.jpg'
+    },
+    {
+      id: 'intern-10',
+      name: 'Siddharth Ganesh',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Siddharth Ganesh.jpg'
+    },
+    {
+      id: 'intern-11',
+      name: 'Yashodhan Singh Rathore',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Yashodhan Singh Rathore.jpg',
+      imagePosition: '70% center'
+    },
+  ];
+
   const coLeadership: TeamMember[] = [
     {
       id: 'co-1',
@@ -113,12 +194,24 @@ export const People: React.FC = () => {
       </div>
 
       {/* Researchers Grid */}
-      <div>
+      <div className="mb-20">
         <h3 className="text-xl font-serif font-bold text-navy-900 border-b border-gray-200 pb-4 mb-8">
           Research Assistants and Field Investigators
         </h3>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-12">
           {researchers.map(member => (
+            <ProfileCard key={member.id} member={member} />
+          ))}
+        </div>
+      </div>
+
+      {/* Research Interns Grid */}
+      <div>
+        <h3 className="text-xl font-serif font-bold text-navy-900 border-b border-gray-200 pb-4 mb-8">
+          Research Interns
+        </h3>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-12">
+          {researchInterns.map(member => (
             <ProfileCard key={member.id} member={member} />
           ))}
         </div>

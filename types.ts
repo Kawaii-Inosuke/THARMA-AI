@@ -1,10 +1,11 @@
 export interface TeamMember {
   id: string;
   name: string;
-  role: 'PI' | 'Co-PI' | 'Researcher' | 'Intern' | 'Research Assistant' | 'Field Investigator';
+  role: 'PI' | 'Co-PI' | 'Researcher' | 'Intern' | 'Research Assistant' | 'Field Investigator' | 'Research Intern';
   institution: string;
   bio?: string;
   imageUrl?: string;
+  imagePosition?: string;
 }
 
 export interface JobOpportunity {
