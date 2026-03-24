@@ -31,13 +31,25 @@ export const ProfileCard: React.FC<ProfileCardProps> = ({ member, featured = fal
 
       {/* Content Container */}
       <div className={`${isHorizontal ? (isLarge ? 'md:w-3/5 p-10' : 'md:w-3/5 p-8') + ' flex flex-col justify-center' : ''}`}>
-        <p className={`text-bronze-600 font-bold uppercase tracking-wider ${isLarge ? 'text-base mb-2' : 'text-sm mb-1'}`}>
-          {member.role}
-        </p>
+        <div className={`flex items-center gap-2 ${isLarge ? 'mb-2' : 'mb-1'}`}>
+          <p className={`text-bronze-600 font-bold uppercase tracking-wider ${isLarge ? 'text-base' : 'text-sm'}`}>
+            {member.role}
+          </p>
+          {member.isHead && (
+            <span className="inline-flex items-center px-2 py-0.5 rounded-full text-xs font-bold bg-navy-900 text-white uppercase tracking-wider">
+              Head
+            </span>
+          )}
+        </div>
         <h3 className={`font-serif font-bold text-navy-900 ${isLarge ? 'text-4xl mb-3' : 'text-xl mb-2'}`}>
           {member.name}
         </h3>
-        <p className={`text-gray-500 font-medium border-l-2 border-gray-200 ${isLarge ? 'text-lg mb-6 pl-4' : 'text-sm mb-3 pl-3'}`}>
+        {member.domain && (
+          <p className={`text-bronze-500 font-semibold ${isLarge ? 'text-base mb-2' : 'text-xs mb-2'}`}>
+            {member.domain}
+          </p>
+        )}
+        <p className={`text-gray-500 font-medium border-l-2 border-gray-200 ${isLarge ? 'text-lg mb-4 pl-4' : 'text-sm mb-2 pl-3'}`}>
           {member.institution}
         </p>
 

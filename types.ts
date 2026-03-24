@@ -6,6 +6,8 @@ export interface TeamMember {
   bio?: string;
   imageUrl?: string;
   imagePosition?: string;
+  domain?: string;
+  isHead?: boolean;
 }
 
 export interface JobOpportunity {

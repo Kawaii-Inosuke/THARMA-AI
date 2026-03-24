@@ -30,13 +30,7 @@ export const People: React.FC = () => {
       institution: 'SRM Institute of Science & Technology',
       imageUrl: '/assets/research ass and field/Sharmista Sen Gupta.jpeg'
     },
-    {
-      id: '4',
-      name: 'Arkaprava Banerjee',
-      role: 'Field Investigator',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/research ass and field/Arkaprava Banerjee.jpg'
-    },
+
     {
       id: '5',
       name: 'Harish Karthi K',
@@ -47,75 +41,24 @@ export const People: React.FC = () => {
   ];
 
   const researchInterns: TeamMember[] = [
-    {
-      id: 'intern-1',
-      name: 'Aarya Sawant',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Aarya Sawant.jpg'
-    },
-    {
-      id: 'intern-2',
-      name: 'Archit Gupta',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Archit Gupta.jpg'
-    },
-    {
-      id: 'intern-3',
-      name: 'Arya Katoch',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Arya Katoch.jpg'
-    },
-    {
-      id: 'intern-4',
-      name: 'Ayush Kumar',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Ayush Kumar.jpeg'
-    },
-    {
-      id: 'intern-5',
-      name: 'Ayush Narania',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Ayush Narania.png'
-    },
-    {
-      id: 'intern-6',
-      name: 'Chelva Lakshitha',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Chelva Lakshitha.jpeg'
-    },
-    {
-      id: 'intern-7',
-      name: 'Pallaprolu Praket Kumar',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Pallaprolu Praket Kumar.jpeg'
-    },
-    {
-      id: 'intern-8',
-      name: 'Sai Priyaa',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/SAI PRIYAA.JPG'
-    },
-    {
-      id: 'intern-9',
-      name: 'Sangat Singh',
-      role: 'Research Intern',
-      institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Sangat Singh.jpg'
-    },
+    // Heads first
     {
       id: 'intern-10',
       name: 'Siddharth Ganesh',
       role: 'Research Intern',
       institution: 'SRM Institute of Science & Technology',
-      imageUrl: '/assets/Icssr research interns/Siddharth Ganesh.jpg'
+      imageUrl: '/assets/Icssr research interns/Siddharth Ganesh.jpg',
+      domain: 'Project Management and ML',
+      isHead: true
+    },
+    {
+      id: 'intern-1',
+      name: 'Aarya Sawant',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Aarya Sawant.jpg',
+      domain: 'Field Investigator and Media',
+      isHead: true
     },
     {
       id: 'intern-11',
@@ -123,7 +66,59 @@ export const People: React.FC = () => {
       role: 'Research Intern',
       institution: 'SRM Institute of Science & Technology',
       imageUrl: '/assets/Icssr research interns/Yashodhan Singh Rathore.jpg',
-      imagePosition: '70% center'
+      imagePosition: '70% center',
+      domain: 'Web Development',
+      isHead: true
+    },
+    {
+      id: 'intern-2',
+      name: 'Archit Gupta',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Archit Gupta.jpg',
+      domain: 'Responsible AI',
+      isHead: true
+    },
+    // Non-heads
+    {
+      id: 'intern-3',
+      name: 'Arya Katoch',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Arya Katoch.jpg',
+      domain: 'Responsible AI Framework'
+    },
+    {
+      id: 'intern-7',
+      name: 'Pallaprolu Praket Kumar',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Pallaprolu Praket Kumar.jpeg',
+      domain: 'Database Management and Dashboard'
+    },
+    {
+      id: 'intern-9',
+      name: 'Sangat Singh',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Sangat Singh.jpg',
+      domain: 'Machine Learning'
+    },
+    {
+      id: 'intern-8',
+      name: 'Sai Priyaa',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/SAI PRIYAA.JPG',
+      domain: 'Machine Learning'
+    },
+    {
+      id: 'intern-5',
+      name: 'Ayush Narania',
+      role: 'Research Intern',
+      institution: 'SRM Institute of Science & Technology',
+      imageUrl: '/assets/Icssr research interns/Ayush Narania.png',
+      domain: 'Web Development'
     },
   ];
 
