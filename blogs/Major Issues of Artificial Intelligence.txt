@@ -1,0 +1,120 @@
+﻿Major Issues of Artificial Intelligence in Security, 
+Media, Responsibility and E-Governance. 
+ 
+In the Chief Guest address, Air Marshal Mateshwaran speech, addressed the breakneck pace 
+of development of Artificial Intelligence and its growing significance in the contemporary security 
+and war. He raised the example of systems of defense, surveillance, and strategy making under 
+the impact of AI technologies. 
+ 
+Air Marshal Mateshwaran believes that AI can contribute to significant advancement of national 
+security by enhancing its intelligence analysis, automation, and predictivity potential. 
+Nevertheless, he also brought significant issues with the morality aspect of the use of AI in 
+warfare. The autonomous systems which are used in military operations cast serious doubts on 
+accountability, control by human beings, and safeguarding of human rights. 
+ 
+He also pointed out that as much as AI has a strong ability to offer high-level technological 
+benefits, the ethical accountability of such use should be thought about by governments and 
+organizations. The issue of striking the equilibrium between technological progress and 
+preservation of basic human values is a hot topic in the shaping of AI-based defence systems. 
+ 
+Keynote on AI in Media 
+ 
+In his keynote address, Nagaraj Nagabushnam from The Hindu Group discussed the growing 
+role of Artificial Intelligence in modern media and journalism.. 
+ 
+He has mentioned AI as a not-seen-bureaucrat that operates behind the scenes in online media 
+outlets. There is increased application of AI systems in organizing, recommending, and curating 
+content to readers. The systems are based on algorithms, which assign the promotion or 
+highlighting of the news stories based on the behavior of users, the metrics of engagement and 
+reading. 
+ 
+Mr. Nagabushnam clarified that, although AI is capable of bringing efficiency and personalization 
+to the media platforms, transparency and accountability are also critical concerns that need to 
+be addressed. As algorithms determine the information audiences are exposed to, there is a 
+necessity to make sure that these systems remain fair and do not adversely impact such a 
+course of misinformation and bias dissemination. 
+ 
+He pointed out that AI should be used in responsible ways in the field of journalism, and editorial 
+supervision should be retained as well as making the algorithmic systems transparent and 
+answerable to the audience. 
+ 
+ 
+
+ 
+
+
+
+ 
+AI in Global South Responsible. 
+ 
+Papia S. Gupta from Jawaharlal Nehru University addressed the challenges of developing 
+Responsible Artificial Intelligence, particularly in the context of the Global South. 
+ 
+Dr. Gupta emphasized that a significant number of AI technologies are created with references 
+to the datasets and frames constructed in Western nations. These systems might not 
+necessarily indicate social, cultural, and economic realities of the developing areas. 
+ 
+She has highlighted that she would focus on the creation of trustful AI systems that focus on 
+fairness, transparency, and inclusiveness. She writes that to be a responsible AI, one needs to 
+pay attention to ethical practice, data privacy, and social concerns of algorithmic decisions. 
+ 
+Another thing that Dr. Gupta emphasized is the necessity of policymakers, researchers, and the 
+developers of AI systems to work together and make sure that these systems can be utilized 
+positively by society at large. It is necessary to create ethical standards and regulations that 
+would oversee the development of AI to make it aligned to the common interest and social 
+justice. 
+ 
+AI in Public Services and E-Governance. 
+ 
+Nila Ganguli from Guru Nanak College discussed the application of Artificial Intelligence in 
+e-governance and public administrationAccording to Dr. Ganguli, digital governance systems 
+will have a great potential in enhancing the service delivery process by minimizing paperwork, 
+enhancing efficiency of administration and allowing the citizens to access services remotely. 
+Nevertheless, she also identified some possible obstacles like algorithmic bias, which can take 
+place due to the incomplete or prejudiced datasets on which AI systems are based. 
+ 
+To mitigate these issues, she declared the need to create inclusive digital systems that would 
+make equal access to all citizens and most importantly marginalized communities. Close 
+attention and proper ethical management should be involved to make sure that AI-services in 
+the public sector will be equal, transparent, and responsible. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+ 
+
+
+
+ 
+Final Reflections on Artificial Intelligence and Society 
+ 
+Air Marshal Mateshwaran, Nagaraj Nagabushnam, Papia S. Gupta, and Nila Ganguli have all, in 
+their separate discourses, collectively unfolded the story of how Artificial Intelligence is gradually 
+dominant in various spheres of the human society. AI is becoming increasingly indispensable in 
+the modern, day technological landscape, be it for national security and warfare, media 
+systems, governance, or global ethical frameworks. 
+ 
+A datum in all presentations was the critical leverage of technological innovation by ethical 
+considerations. Despite the fact that AI can bring about remarkable improvements like increased 
+productivity, excellent data analytics, and enhanced decision, making capabilities, it can also 
+give rise to issues of human rights, openness, responsibility, and justice. To give a few 
+examples, the security and media realms cannot afford to overlook the necessity of vigilant 
+oversight and prudent governance as far as the possible ways of abuse and/or collateral 
+damages with AI systems are concerned. 
+ 
+As well, the talk on #ResponsibleAI# in the Global South points to the necessity for a collectively 
+beneficial tech development that is socially and culturally aware. The PC transformation of 
+governance is another example where, on the one hand, digital tools can facilitate public service 
+delivery, but on the other hand, there is a pressing issue of preventing them from being vehicles 
+of bias and inequality. 
+ 
+In sum, these meetings have cast light on the fact that AI's future will be a garden where ethical 
+petals, robust regulatory fences, and continuous human caretaking will be the components that 
+make technology flourish in a way that society as a whole reaps the benefits.
