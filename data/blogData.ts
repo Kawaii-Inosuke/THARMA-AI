@@ -87,6 +87,7 @@ export const blogPosts: BlogPost[] = [
     date: "March 28, 2026",
     author: "Tharma AI Research Team",
     category: "Policy Analysis",
+    externalLink: "https://tharma-ai.blogspot.com/2026/03/major-issues-of-artificial-intelligence.html",
     content: [
       "Major Issues of Artificial Intelligence in Security, Media, Responsibility and E-Governance.",
       "In the Chief Guest address, Air Marshal Mateshwaran speech, addressed the breakneck pace of development of Artificial Intelligence and its growing significance in the contemporary security and war. He raised the example of systems of defense, surveillance, and strategy making under the impact of AI technologies.",
