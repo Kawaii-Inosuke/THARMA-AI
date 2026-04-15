@@ -121,6 +121,7 @@ export const blogPosts: BlogPost[] = [
     date: "March 28, 2026",
     author: "Tharma AI Research Team",
     category: "Policy Framework",
+    externalLink: "https://tharma-ai.blogspot.com/2026/03/ethics-of-ai-in-e-governance-trust.html",
     content: [
       "Ethics of AI in E-Governance: Trust, Fairness and Accountability in the Indian Context",
       "Introduction",
