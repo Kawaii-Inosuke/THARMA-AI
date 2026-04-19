@@ -163,6 +163,30 @@ export const People: React.FC = () => {
       imageUrl: "/assets/Icssr student intern/Advait Bhagwat .jpeg",
       domain: "Website Development",
     },
+    {
+      id: "student-7",
+      name: "Shreya Kesari",
+      role: "Student Intern",
+      institution: "Jawaharlal Nehru University",
+      imageUrl: "/assets/Icssr student intern/Shreya Kesari.jpeg",
+      domain: "Field Investigator and Social Science Researcher",
+    },
+    {
+      id: "student-8",
+      name: "Harshita Mishra",
+      role: "Student Intern",
+      institution: "Jawaharlal Nehru University",
+      imageUrl: "/assets/Icssr student intern/Harshita Mishra.jpeg",
+      domain: "Field Investigator and Social Science Researcher",
+    },
+    {
+      id: "student-9",
+      name: "Prantika Mukherjee",
+      role: "Student Intern",
+      institution: "Jawaharlal Nehru University",
+      imageUrl: "/assets/Icssr student intern/Prantika Mukherjee.jpeg",
+      domain: "Field Investigator and Social Science Researcher",
+    },
   ];
 
   const coLeadership: TeamMember[] = [
