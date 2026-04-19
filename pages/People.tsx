@@ -17,13 +17,7 @@ export const People: React.FC = () => {
   ];
 
   const researchers: TeamMember[] = [
-    {
-      id: "3",
-      name: "Rishiraj Sen",
-      role: "Research Assistant",
-      institution: "SRM Institute of Science & Technology",
-      imageUrl: "/assets/research ass and field/Rishiraj Sen.jpg",
-    },
+
     {
       id: "6",
       name: "Sharmista Sen Gupta",
@@ -41,8 +35,7 @@ export const People: React.FC = () => {
     },
   ];
 
-  const researchInterns: TeamMember[] = [
-    // Heads first
+  const researchInternHeads: TeamMember[] = [
     {
       id: "intern-10",
       name: "Siddharth Ganesh",
@@ -50,7 +43,6 @@ export const People: React.FC = () => {
       institution: "SRM Institute of Science & Technology",
       imageUrl: "/assets/Icssr research interns/Siddharth Ganesh.jpg",
       domain: "Project Management and ML",
-      isHead: true,
     },
     {
       id: "intern-1",
@@ -59,7 +51,6 @@ export const People: React.FC = () => {
       institution: "SRM Institute of Science & Technology",
       imageUrl: "/assets/Icssr research interns/Aarya Sawant.jpg",
       domain: "Field Investigator and Media",
-      isHead: true,
     },
     {
       id: "intern-11",
@@ -69,7 +60,6 @@ export const People: React.FC = () => {
       imageUrl: "/assets/Icssr research interns/Yashodhan Singh Rathore.jpg",
       imagePosition: "70% center",
       domain: "Web Development",
-      isHead: true,
     },
     {
       id: "intern-2",
@@ -78,9 +68,10 @@ export const People: React.FC = () => {
       institution: "SRM Institute of Science & Technology",
       imageUrl: "/assets/Icssr research interns/Archit Gupta.jpg",
       domain: "Responsible AI",
-      isHead: true,
     },
-    // Non-heads
+  ];
+
+  const researchInterns: TeamMember[] = [
     {
       id: "intern-3",
       name: "Arya Katoch",
@@ -226,7 +217,7 @@ export const People: React.FC = () => {
       {/* Leadership Section */}
       <div className="mb-20">
         <h3 className="text-xl font-serif font-bold text-navy-900 border-b border-gray-200 pb-4 mb-8">
-          Principal Investigators
+          Project Director
         </h3>
         <div className="grid grid-cols-1 gap-10 max-w-3xl">
           {leadership.map((member) => (
@@ -258,6 +249,18 @@ export const People: React.FC = () => {
         </h3>
         <div className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-12">
           {researchers.map((member) => (
+            <ProfileCard key={member.id} member={member} />
+          ))}
+        </div>
+      </div>
+
+      {/* Research Intern Heads Grid */}
+      <div className="mb-20">
+        <h3 className="text-xl font-serif font-bold text-navy-900 border-b border-gray-200 pb-4 mb-8">
+          Research Intern Heads
+        </h3>
+        <div className="grid grid-cols-2 md:grid-cols-4 gap-x-6 gap-y-12">
+          {researchInternHeads.map((member) => (
             <ProfileCard key={member.id} member={member} />
           ))}
         </div>
