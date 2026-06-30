@@ -16,9 +16,10 @@ export const blogPosts: BlogPost[] = [
     "title": "Ethics of AI in eGovernance: National Workshop Report",
     "metaTitle": "Ethics of AI in eGovernance: National Workshop Report",
     "description": "Explore key insights from the ICSSR-funded workshop on AI ethics, trust, fairness, and accountability in digital governance.",
-    "date": "February 6, 2026",
+    "date": "May 30, 2026",
     "author": "Nandini Srivastava",
     "category": "Workshop Report",
+    "externalLink": "https://tharma-ai.blogspot.com/2026/05/national-workshop-on-ethics-of-ai-in.html",
     "content": [
       "The Department of Computing Technologies, School of Computing, at SRM Institute of Science and Technology, hosted a two-day National Workshop on “Ethics of AI in eGovernance: Trust, Fairness, and Accountability Over Time,\" supported by the Indian Council of Social Science Research (ICSSR) under its funded research initiative.",
       "The workshop brought together enthusiastic participants, including faculty members, research scholars, students, policy practitioners, and industry professionals. The hybrid format enabled discussions on the ethical, regulatory, and technical dimensions of AI in public governance systems.",
@@ -48,9 +49,10 @@ export const blogPosts: BlogPost[] = [
     "title": "The Quiet Rise of AI: Reflections on Technology, Ethics and Society",
     "metaTitle": "The Quiet Rise of AI: Ethics, Society and Technology",
     "description": "Reflections on how AI shapes daily life, governance, and society — and why responsible innovation must guide its future.",
-    "date": "March 28, 2026",
+    "date": "May 30, 2026",
     "author": "Kenaz P Saji",
     "category": "Reflections",
+    "externalLink": "https://tharma-ai.blogspot.com/2026/05/the-quiet-rise-of-ai.html",
     "content": [
       "Artificial Intelligence is something that people think is away from us. The truth is, Artificial Intelligence is already a part of our daily lives. Artificial Intelligence unlocks our phone recommending the movies we watch, filters the content we see online and helps governments manage services and make decisions.",
       "When we listen to experts talk about Artificial Intelligence the conversation is not about technology. It is about ethics, responsibility, power and the future of society.",
