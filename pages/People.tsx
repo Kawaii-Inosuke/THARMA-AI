@@ -69,6 +69,14 @@ export const People: React.FC = () => {
       imageUrl: "/assets/Icssr research interns/Archit Gupta.jpg",
       domain: "Responsible AI",
     },
+    {
+      id: "intern-4",
+      name: "Ayush Kumar",
+      role: "Research Intern",
+      institution: "SRM Institute of Science & Technology",
+      imageUrl: "/assets/Icssr research interns/Ayush Kumar.jpeg",
+      domain: "Responsible AI",
+    },
   ];
 
   const researchInterns: TeamMember[] = [
@@ -186,6 +194,54 @@ export const People: React.FC = () => {
       institution: "Jawaharlal Nehru University",
       imageUrl: "/assets/Icssr student intern/Prantika Mukherjee.jpeg",
       domain: "Field Investigator and Social Science Researcher",
+    },
+    {
+      id: "student-10",
+      name: "Athira Radhakrishnan",
+      role: "Student Intern",
+      institution: "SRM Institute of Science & Technology",
+      imageUrl: "/assets/Icssr student intern/Athira Radhakrishnan.jpeg",
+      domain: "Project Management",
+    },
+    {
+      id: "student-11",
+      name: "Rishav Kumar",
+      role: "Student Intern",
+      institution: "Jawaharlal Nehru University",
+      imageUrl: "/assets/Icssr student intern/Rishav Kumar.jpeg",
+      domain: "Field Investigator",
+    },
+    {
+      id: "student-12",
+      name: "Himanshu Sharma",
+      role: "Student Intern",
+      institution: "SRM Institute of Science & Technology",
+      imageUrl: "/assets/Icssr student intern/Himanshu Sharma.jpeg",
+      domain: "Field Investigator",
+    },
+    {
+      id: "student-13",
+      name: "Chelva Lakshitha",
+      role: "Student Intern",
+      institution: "SRM Institute of Science & Technology",
+      imageUrl: "/assets/Icssr student intern/Chelva Lakshitha.jpeg",
+      domain: "Field Investigator",
+    },
+    {
+      id: "student-14",
+      name: "Nitishaa Kalakoti",
+      role: "Student Intern",
+      institution: "Jawaharlal Nehru University",
+      imageUrl: "/assets/Icssr student intern/Nitishaa Kalakoti.jpeg",
+      domain: "Field Investigator",
+    },
+    {
+      id: "student-15",
+      name: "Julie Ann Thomas",
+      role: "Student Intern",
+      institution: "SRM Institute of Science & Technology",
+      imageUrl: "/assets/Icssr student intern/Julie Ann Thomas.jpeg",
+      domain: "Field Investigator",
     },
   ];
 
