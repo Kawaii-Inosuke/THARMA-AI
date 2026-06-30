@@ -1,0 +1,86 @@
+﻿National Workshop on Ethics of AI in eGovernance: 
+Trust, Fairness, and Accountability Over Time 
+ 
+ICSSR_Funded Research Project Event 
+5-6 February, 2026 | SRM Institute of Science and Technology, Kattankulathur 
+
+The Department of Computing Technologies, School of Computing, at SRM Institute 
+of Science and Technology, hosted a two-day National Workshop on “Ethics of AI in 
+eGovernance: Trust, Fairness, and Accountability Over Time," supported by the 
+Indian Council of Social Science Research (ICSSR) under its funded research 
+initiative. 
+
+The workshop brought together enthusiastic participants, including faculty members, 
+research scholars, students, policy practitioners, and industry professionals. The 
+hybrid format enabled discussions on the ethical, regulatory, and technical dimensions 
+of AI in public governance systems. 
+
+Inaugural Session and Dignitaries 
+The workshop commenced with an inaugural address by the chief guest of the event, 
+Air Marshal M. Madheshwaran, AVSM, VM, Ph.D., who emphasized the growing 
+importance of ethical AI frameworks in eGovernance systems. 
+
+The event featured an eminent panel of speakers and thought leaders: 
+
+●​ Mr. Nagaraj Nagabushanam, Vice President - Data Analytics and Designated 
+AI Officer, The Hindu Group 
+
+●​ Dr. Papia Sengupta, Assistant Professor, Jawaharlal National University 
+●​ Dr. Neela Ganguly, Assistant Professor and Head, Guru Nanak College 
+●​ Dr. Geoffrey Rockwell, Professor, University of Alberta; CIFAR AI Chair 
+●​ Mr. Shivam, Consultant, ZS Associates 
+●​ Mr. Venkatraman S, Senior Consultant, UNESCO 
+
+Their addresses provided interdisciplinary insights spanning algorithmic 
+accountability, fairness metrics, governance policy frameworks, and global regulatory 
+trends. 
+
+The workshop was chaired by Dr. Revathi Venkataraman, with Dr. Pushpalatha M. 
+serving as the Associate Chairperson. The sessions were coordinated under the 
+leadership of Dr. Niranjana G., HOD Department of Computing Technologies, School 
+of Computing, along with the dedicated team comprising Dr. Divya Mohan, Dr. P. 
+Selvaraj, Dr. Ponmagal R. S., Dr. Alice K., Dr. Suganiya M., and Dr. Kishore 
+Anthuvan Sahayaraj. 
+
+
+
+Key Themes and Deliberations 
+The workshop facilitated interdisciplinary discussions on the evolving ethics of AI in 
+digital governance. They moved beyond abstract principles and examined structural, 
+institutional, and ethical implications of AI deployment in public systems over time. 
+
+A recurring theme was the creation of institutional trust in AI-mediated governance 
+systems. Trust is not merely a technical property. It is a socio-technical outcome 
+shaped by transparency in decision logic, legibility of algorithmic outputs, fairness in 
+automated decision-making, and citizen grievance-redressal mechanisms. Discussions 
+highlighted that trust deficits often arise when AI systems are perceived as opaque or 
+unchallengeable. 
+
+They scrutinized how algorithmic systems may reproduce or amplify structural 
+inequalities when trained on historically biased datasets. Speakers stressed that 
+fairness in governance cannot be reduced to statistical metrics alone; it must 
+incorporate constitutional values, justice principles, and socio-cultural realities and 
+heed the risk of digital exclusion in automated governance processes. 
+
+The emphasis was on ensuring that AI systems remain aligned with public values as 
+they evolve, reaffirming the importance of sustained ethical monitoring rather than 
+one-time compliance checks. Emerging governance models for AI oversight, 
+sector-specific regulation in eGovernance, and policy frameworks must balance 
+technological innovation with safeguards against algorithmic discrimination and legal 
+transparency. 
+
+The necessity of interdisciplinary collaboration was reasserted. Ethical AI in 
+governance requires expertise spanning computer science, data engineering, public 
+policy, political theory, law and constitutional studies, sociology, and development 
+studies. The participation of scholars and practitioners from diverse domains 
+reinforced the understanding that AI in eGovernance is fundamentally a 
+socio-technical challenge. 
+
+Conclusion 
+The ICSSR-funded National Workshop affirmed that embedding trust, fairness, and 
+accountability in eGovernance systems is not a static compliance exercise but an 
+ongoing governance process. Ethical AI must be designed, monitored, evaluated, and 
+recalibrated continuously to ensure alignment with democratic values and social 
+justice objectives. By highlighting trust, fairness, and long-term accountability, the 
+initiative restated the institution’s commitment to advancing responsible innovation 
+and socially grounded AI research.

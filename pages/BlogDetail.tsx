@@ -116,6 +116,12 @@ export const BlogDetail: React.FC = () => {
               </p>
             );
           })}
+          
+          <div className="mt-12 pt-6 border-t border-gray-200 flex justify-end">
+            <p className="text-gray-500 font-sans italic text-sm">
+              Written by: <span className="font-bold text-navy-900 not-italic">{post.author}</span>
+            </p>
+          </div>
         </article>
 
         {/* External Link Button */}
